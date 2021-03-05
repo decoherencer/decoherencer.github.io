@@ -1,0 +1,19 @@
+[   {"school":"[Indian Institute of Technology, Delhi](https://home.iitd.ac.in)",
+     "degree":"Master of Science(Research)",
+     "major":"Computer Science and Engineering",
+     "range":"2020 - Present"
+},
+    {
+        "school":"[Andhra University College of Engineering](https://www.andhrauniversity.edu.in/college/college-of-engineering/engineering-home.html)",
+        "degree":"Bachelors in Technology",
+        "major":"Electrical and Electronics Engineering",
+        "notes":"",
+        "range":"2014 - 2017"
+    },
+    {
+        "school":"[Government Polytechnic, Visakhaptnam](https://govtpolyvisakhapatnam.ac.in/about/)",
+        "degree":"Diploma",
+        "major":"Electrical and Electronics",
+        "range":"2011 - 2014"
+    }
+]

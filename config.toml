@@ -1,0 +1,80 @@
+baseURL = "https://www.saikan.me"
+title = "Hi👋"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = ""
+email = ""
+favicon = "/favicon.ico"
+firstName = "Sai"
+lastName = "Kandregula"
+phone = ""
+profileImage = "img/schrodingercatzoom.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = false
+showSkills = true
+showBlog = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "G-T3HW35S81K"
+
+
+[[params.handles]]
+link = "https://refind.com/saikan"
+name = "Refind"
+
+[[params.handles]]
+link = "https://zeneca.io/sai"
+name = "Zeneca"
+
+[[params.handles]]
+link = "https://binarysearch.com/@/skan"
+name = "binarysearch"
+
+[[params.handles]]
+link = "https://www.vocabulary.com/profiles/B06AWFPA77ORA2"
+name = "vocabulary.com"
+
+[[params.handles]]
+link = "https://www.duolingo.com/profile/sai.kan"
+name = "Duolingo"
+
+[[params.handles]]
+link = "mailto:hiatsaikan"
+name = "email"
+
+[[params.handles]]
+link = "https://twitter.com/entangledenergy"
+name = "Twitter"
+pre = "fab fa-github fa-stack-1x fa-inverse"
+
+[[params.handles]]
+link = "https://github.com/decoherencer/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/saikan/"
+name = "LinkedIn"
+
+# https://keybase.io/saikan
+# https://scholar.google.co.in/citations?hl=en&user=2kfO04oAAAAJs
+# https://www.kaggle.com/saikan
+# https://medium.com/@saikan
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = ["tags", "resume", "profile", "portfolio", "responsive" ]
