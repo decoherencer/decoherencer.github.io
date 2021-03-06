@@ -1,7 +1,11 @@
 [
   {
+    "grouping":"learning",
+    "skills":["Pytorch","Pytorch Geometric", "Research papers reading", "LaTeX"]
+  },
+  {
       "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Routers", "Arduino", "Microcontrollers/Microprocessors", "Variable Frequency Drives", "Electric Machines and Networks", "Circuit breakers and relays"]
+      "skills":[ "IP Networking","DNS", "Arduino", "Microcontrollers/Microprocessors", "Variable Frequency Drives", "Electric Machines and Networks", "Circuit breakers and relays"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ {"name":"Python","link":"https://python.org"},"git","MATLAB","C/C++","linux","bash","HTML/CSS"]

@@ -5,7 +5,7 @@ languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
-enableGitInfo = false
+enableGitInfo = true
 
 [params]
 address = ""
@@ -24,10 +24,10 @@ showQr = false
 showSkills = true
 showBlog = true
 
-[params.google]
+# [params.google]
 
-[params.google.analytics]
-trackerID = "G-T3HW35S81K"
+# [params.google.analytics]
+# trackerID = ""
 
 
 [[params.handles]]
@@ -43,21 +43,12 @@ link = "https://binarysearch.com/@/skan"
 name = "binarysearch"
 
 [[params.handles]]
-link = "https://www.vocabulary.com/profiles/B06AWFPA77ORA2"
-name = "vocabulary.com"
-
-[[params.handles]]
 link = "https://www.duolingo.com/profile/sai.kan"
 name = "Duolingo"
 
 [[params.handles]]
-link = "mailto:hiatsaikan"
-name = "email"
-
-[[params.handles]]
 link = "https://twitter.com/entangledenergy"
 name = "Twitter"
-pre = "fab fa-github fa-stack-1x fa-inverse"
 
 [[params.handles]]
 link = "https://github.com/decoherencer/"
@@ -71,10 +62,10 @@ name = "LinkedIn"
 # https://scholar.google.co.in/citations?hl=en&user=2kfO04oAAAAJs
 # https://www.kaggle.com/saikan
 # https://medium.com/@saikan
-
+# https://www.vocabulary.com/profiles/B06AWFPA77ORA2
 
 [outputs]
 home = ["HTML", "JSON"]
 
 [taxonomies]
-tag = ["tags", "resume", "profile", "portfolio", "responsive" ]
+tag = ["resume", "profile", "portfolio", "responsive" ]
