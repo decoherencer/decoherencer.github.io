@@ -10,6 +10,29 @@ font-style: normal;
 font-display: swap;
 }
 
+@font-face {
+font-family: 'devicons';
+src: local('devicons'), url(https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/fonts/devicons.woff?xqxft6) format('woff');
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'fa-solid';
+src: local('fa-solid'), url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-solid-900.woff2) format('woff2');
+font-weight: 900;
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'fa-brands';
+src: local('fa-brands'), url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/webfonts/fa-brands-400.woff2) format('woff2');
+font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
+
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
