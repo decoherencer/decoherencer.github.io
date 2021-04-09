@@ -8,7 +8,7 @@
   <meta property="og:title" content="{{ .Site.Title }} | {{ .Title }}" />
   <meta property="og:image" content="{{ .Site.Params.profileImage | absURL }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ .Site.baseURL }} | {{ .baseURL }}" />
+  <meta property="og:url" content="{{ .Site.BaseURL }} | {{ .BaseURL }}" />
   <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{else}}{{ .Description }}{{ end }}">
   <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{else}}{{ .Description }}{{ end }}" />
   <meta name="author" content="{{ .Site.Params.firstName }} {{ .Site.Params.lastName }}">
