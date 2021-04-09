@@ -2,8 +2,8 @@ baseURL = "https://www.saikan.me"
 title = "Sai Kandregula"
 theme = "hugo-resume"
 languageCode = "en-us"
-PygmentsCodeFences = true
-PygmentsCodeFencesGuessSyntax = true
+PygmentsCodeFences = false
+PygmentsCodeFencesGuessSyntax = false
 PygmentsStyle = "monokai"
 enableGitInfo = false
 
@@ -13,6 +13,7 @@ email = ""
 favicon = "/favicon.ico"
 firstName = "Sai"
 lastName = "Kandregula"
+description = "Hey, I am researching for a master's degree in Computer Science under Prof. Srikanta Bedathur and Prof. Sayan Ranu at IIT Delhi"
 phone = ""
 profileImage = "img/schat.webp"
 showEducation = true
@@ -29,7 +30,6 @@ showBlog = true
 [params.google.analytics]
 trackerID = ""
 
-
 [[params.handles]]
 link = "https://refind.com/saikan"
 name = "Refind"
@@ -39,18 +39,6 @@ link = "https://zeneca.io/sai"
 name = "Zeneca"
 
 [[params.handles]]
-link = "https://binarysearch.com/@/skan"
-name = "binarysearch"
-
-[[params.handles]]
-link = "https://www.duolingo.com/profile/sai.kan"
-name = "Duolingo"
-
-[[params.handles]]
-link = "https://twitter.com/entangledenergy"
-name = "Twitter"
-
-[[params.handles]]
 link = "https://github.com/decoherencer/"
 name = "GitHub"
 
@@ -58,6 +46,14 @@ name = "GitHub"
 link = "https://www.linkedin.com/in/saikan/"
 name = "LinkedIn"
 
+[[params.handles]]
+link = "https://twitter.com/entangledenergy"
+name = "Twitter"
+
+# name = "binarysearch"
+# https://binarysearch.com/@/skan
+# name = "Duolingo"
+# https://www.duolingo.com/profile/sai.kan
 # https://keybase.io/saikan
 # https://scholar.google.co.in/citations?hl=en&user=2kfO04oAAAAJs
 # https://www.kaggle.com/saikan

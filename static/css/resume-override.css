@@ -7,7 +7,7 @@ url('../fonts/icomoon.woff') format('woff'),
 url('../fonts/icomoon.svg') format('svg');
 font-weight: normal;
 font-style: normal;
-font-display: block;
+font-display: swap;
 }
 
 [class^="icon-"], [class*=" icon-"] {
@@ -32,22 +32,22 @@ font-display: block;
 
 .fa-refind:before{
   content:"\e91a";
-  font-family: 'icomoon' !important;
+  font-family: 'icomoon';
 }
 
 .fa-zeneca:before{
   content:"\e928";
-  font-family: 'icomoon' !important;
+  font-family: 'icomoon';
 }
 
 .fa-binarysearch:before{
   content:"\ea81";
-  font-family: 'icomoon' !important;
+  font-family: 'icomoon';
 }
 
 .fa-duolingo:before{
   content:"\e901";
-  font-family: 'icomoon' !important;
+  font-family: 'icomoon';
 }
 
 
