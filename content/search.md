@@ -1,6 +1,7 @@
 ---
 title: "Search Results"
 layout: "search"
+sitemap_ignore: true
 ---
 
 
